@@ -12,4 +12,4 @@ Students will work on migrating parts of a legacy system to a new architecture (
 - Extract reusable components
 - Document reausibility improvements
 
-Repository Tasks: Perform code migration tasks and refactor reusable components to modern standards.
+Repository Tasks: Perform migration tasks and refactor reusable components to modern standards.
