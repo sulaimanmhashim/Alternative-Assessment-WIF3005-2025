@@ -1,3 +1,10 @@
+# WI3005  Software Maintenance and Evolution
+# Mohamad Sulaiman bin Mohd Hashim
+# 17096959/3
+# Alternative Assessment
+# Question 2
+# Repository link: https://github.com/sulaimanmhashim/javascript-tetris
+
 # Use the official nginx image as the base
 FROM nginx:latest
 
